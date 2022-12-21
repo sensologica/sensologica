@@ -2,5 +2,4 @@
 
 Hello! I am a graphic/UI/UX designer living and working in Paris, France. I am currently learning web development via The Odin Project.
 
-<a href="https://www.linkedin.com/in/sensologica/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Artem%20Barinov-0077b5?logo=linkedin"></a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artem%20Barinov-0077b5?logo=linkedin)](https://www.linkedin.com/in/sensologica/")
