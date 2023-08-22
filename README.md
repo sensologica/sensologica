@@ -7,6 +7,6 @@ Hello! I am a front-end web developer living and working in Paris, France. I hav
 - 🧪 Jest (unit and integration testing)
 - 🦾 A11y
 - 🔀 UX design
-- 🎨 UI design
+- 📱 UI design
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Artem%20Barinov-0077b5?logo=linkedin)](https://www.linkedin.com/in/sensologica/")
