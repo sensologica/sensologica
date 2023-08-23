@@ -1,4 +1,4 @@
-Hello! I am a front-end web developer living and working in Paris, France. I have a background in UI/UX and graphic design.
+Hello! I am a front-end web developer living and working in Paris, France. I have a background in UX/UI design.
 
 💛 JavaScript 💙 TypeScript 🩵 React  
 🧪 Jest (unit and integration testing)  
