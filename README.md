@@ -1,7 +1,11 @@
-Hello! I am a front-end web developer living and working in Paris, France. I have a background in UX/UI design.
+Hi there! 
 
-💛 JavaScript 💙 TypeScript 🩵 React  
-🧪 Jest (unit and integration testing)  
-📱 UX/UI design
+I'm Artem. I'm a product designer who loves UX, code, and all things web.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artem%20Barinov-0077b5?logo=linkedin)](https://www.linkedin.com/in/sensologica/")
+I run Sensologica, my web design and development studio in Paris. Send me a message to set up a free consultation.
+
+Since 2023 I am also a UX designer at [Zettlr](https://www.zettlr.com/), where I get to work with amazing people and help build a privacy-first Markdown editor that helps knowledge workers shape ideas at the speed of thought.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sensologica) and follow me on [Bluesky](https://bsky.app/profile/sensologica.bsky.social).
+
+See you around!
