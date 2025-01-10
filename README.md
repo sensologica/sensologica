@@ -1,6 +1,6 @@
 Hi there!
 
-I'm Artem. I'm a product designer who loves to code and tinker with all things web.
+I'm Artem. I'm a web developer with a passion for user experience.
 
 I run Sensologica -- my web design and development studio -- from the beautiful city of Paris.
 
