@@ -2,7 +2,7 @@ Hi there!
 
 I'm Artem. I'm a web developer with a passion for user experience.
 
-I run Sensologica -- my web design and development studio -- from the beautiful city of Paris.
+I run Sensologica -- my web design and development studio.
 
 I am also a core contributor at [Zettlr](https://www.zettlr.com/) where I get to work with amazing people and build a privacy-first open-source Markdown editor. Our mission is to help knowledge workers shape novel ideas at the speed of thought.
 
